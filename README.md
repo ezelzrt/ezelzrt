@@ -6,7 +6,15 @@ Actualmente estoy cursando el último año de la Ing. Informática en la UBA, bu
 
 ## Contacto:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eze-lazarte/) 
-- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ezelzrt@gmail.com) 
+- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ezelzrt@gmail.com)
+
+## Proyectos:
+- [Spotify-like](https://github.com/MelodiApp): Proyecto academico, desarrollado en 4 meses, grupo de 5 personas. Orientado a microservicios, desplegados en producción (Heroku); con app movil (APK) y backoffice web (Vercel).
+
+  - Infraestructura General del proyecto:
+  
+    <img width="1200" height="625" alt="melodia-infra-general" src="https://github.com/user-attachments/assets/6a4a5bba-960b-4ca2-95d5-7236315146e6" />
+
 
 ## Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
