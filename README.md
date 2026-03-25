@@ -1,11 +1,14 @@
 <h1 align="center">Ezequiel Lazarte</h1>
-<h3 align="center">Estudiante avanzado Ingeniería Informática</h3>
+<h3 align="center">Estudiante avanzado en Ingeniería Informática</h3>
 
+<br>
+
+## Acerca de mí
 Actualmente estoy cursando el último año de la Ing. Informática en la UBA, buscando obtener experiencia profesional en el mundo IT. Soy alguien curioso que continuamente esta aprendiendo nuevas herramientas.
 
 
 ## Contacto:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eze-lazarte/) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eze-lazarte/) 
 - [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ezelzrt@gmail.com)
 
 ## Proyectos:
