@@ -1,5 +1,5 @@
 <h1 align="center">Ezequiel Lazarte</h1>
-<h3 align="center">Backend & Fullstack Developer | Software Engineering Student (UBA)</h3>
+<h3 align="center">Backend Developer | Software Engineering Student (UBA)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eze-lazarte/">
@@ -13,13 +13,12 @@
 ---
 
 ## 💻 Sobre mí
-Soy desarrollador Backend/Fullstack y estoy cursando el último año de Ingeniería Informática (FIUBA). Mi enfoque está en la **arquitectura de software, automatización e infraestructura**. 
+Desarrollador Backend (con experiencia Full Stack). Estudiante del último año de Ingeniería Informática (UBA). Combino una sólida base teórica con experiencia práctica en el ciclo completo de desarrollo de software: desde el diseño de bases de datos y creación de APIs, hasta la integración del frontend y el despliegue. Trabajo habitualmente con tecnologías modernas (Node.js, TypeScript, React, PostgreSQL) e integro herramientas de IA en mi día a día para escribir código de forma más ágil y limpia. Busco un equipo donde pueda aportar valor técnico, resolver problemas complejos y seguir evolucionando profesionalmente.
 
-Tengo bases sólidas en sistemas operativos (kernel, file systems), redes (modelo OSI, TCP/IP). Actualmente integro herramientas de **IA (Copilot, OpenCode, Skills, MCP)** directo en mi flujo de trabajo para acelerar el desarrollo sin perder calidad.
 
 ## 🚀 Proyectos Destacados
 
-### [MelodiApp (Spotify-like)](https://github.com/MelodiApp)
+### [MelodiApp (Spotify-like)](https://github.com/MelodiApp) | [Demo](https://www.youtube.com/watch?v=TwwvMM8Z0g4)
 Sistema de streaming musical orientado a microservicios. Desarrollado en 4 meses por un equipo de 5 personas. Incluye aplicación móvil (APK), backoffice web y despliegue en producción.
 * **Stack principal:** Node.js, Python, PostgreSQL, MongoDB, Docker, Vercel, Heroku.
 <details>
