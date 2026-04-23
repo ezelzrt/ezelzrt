@@ -13,8 +13,7 @@
 ---
 
 ## 💻 Sobre mí
-Desarrollador Backend (con experiencia Full Stack). Estudiante del último año de Ingeniería Informática (UBA). Combino una sólida base teórica con experiencia práctica en el ciclo completo de desarrollo de software: desde el diseño de bases de datos y creación de APIs, hasta la integración del frontend y el despliegue. Trabajo habitualmente con tecnologías modernas (Node.js, TypeScript, React, PostgreSQL) e integro herramientas de IA en mi día a día para escribir código de forma más ágil y limpia. Busco un equipo donde pueda aportar valor técnico, resolver problemas complejos y seguir evolucionando profesionalmente.
-
+Desarrollador Backend con experiencia Full Stack. Estudiante del último año de Ingeniería Informática (UBA). Combino una sólida formación en ciencias de la computación con experiencia práctica en el desarrollo de software end-to-end, desde el diseño de bases de datos y APIs hasta la integración y despliegue de aplicaciones. Mantengo un enfoque de aprendizaje continuo, evaluando e incorporando nuevas tecnologías y herramientas en función de su impacto en la calidad y eficiencia del desarrollo. Busco incorporarme a un equipo donde pueda aportar criterio técnico, resolver problemas complejos y seguir profundizando en el diseño de diversos sistemas.
 
 ## 🚀 Proyectos Destacados
 
